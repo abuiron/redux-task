@@ -26,16 +26,16 @@ The **Redux Task** project highlights how Redux can centralize and manage state 
    git clone https://github.com/abuiron/redux-task.git
 
 2. Navigate to the project directory:
-  ```bash
-  cd redux-task
+    ```bash
+    cd redux-task
 
 3. Install dependencies:
-  ```bash
-  npm install
-
+    ```bash
+    npm install
+ 
 4. Start the development server:
-  ```bash
-  npm start
+    ```bash
+    npm start
 
 5. Open your browser and go to http://localhost:3000 to view the application.
 
